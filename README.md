@@ -34,6 +34,7 @@ The project likely utilizes a rich dataset derived from publicly available Olymp
 6.Year and Season (Summer/Winter)
 
 ✨ Features / Highlights
+
 1.The primary goal of this dashboard is to provide clear, actionable insights into Olympic history.
 
 2.Business Problem: Analyzing complex, large-scale historical sports data to identify long-term trends and comparative performance is difficult using static reports or raw data.
@@ -41,6 +42,7 @@ The project likely utilizes a rich dataset derived from publicly available Olymp
 3.Goal of the Dashboard: To create an intuitive, drill-down interface for exploring Olympic history, simplifying comparisons between countries and pinpointing key performance indicators.
 
 Walkthrough of Key Visuals (Hypothetical)
+
 1.Key Performance Indicators (KPIs): Highlighting total Gold, Silver, Bronze, and Total Medals won globally or by selection.
 
 2.Historical Performance Chart: A trendline showing a Country's Medal Count Over Time (e.g., filtered by the user).
